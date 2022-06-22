@@ -21,6 +21,7 @@ Automatically send latest Youtube video to discord channel
 
 
 *** You need to host this bot 24/7
+
 *** You need to include a "hololive_file.txt" file in the same folder, and update the txt by adding new video url
 
 
