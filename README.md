@@ -1,6 +1,8 @@
 # discord_bot_hololive
 Automatically send latest Youtube video to discord channel
 
+![螢幕擷取畫面 2023-09-02 190325](https://github.com/Ely2112/discord_bot_hololive/assets/84430363/e4bfd784-5cac-4eb9-aef9-c485557a89cd)
+
 
 4 things to be added by yourself:
   1. line 8, private_key
